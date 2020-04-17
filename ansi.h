@@ -12,6 +12,7 @@
 #include <time.h>
 #include <limits.h>
 #include <float.h>
+#include <fcntl.h>
 
 #ifdef __TO_DO_SOMETIME__
 #include <locale.h>
