@@ -8,7 +8,6 @@
 #include <unistd.h>
 #include <dirent.h>
 #include <fcntl.h>
-#include <stdlib.h>
 
 #include <grp.h>
 #include <pwd.h>
